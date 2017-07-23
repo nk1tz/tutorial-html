@@ -1,0 +1,31 @@
+p {
+    color: grey;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+div {
+    text-align: center;
+    border: 2px solid green;
+    padding: 5px;
+}
+
+.link-sections {
+    background-color: pink;
+    text-align: left;
+    margin: 10px;
+    border: 3px dotted purple;
+}
+
+
+.link-sections a {
+    color: forestgreen;
+}
+
+img {
+    max-width: 500px;
+}
